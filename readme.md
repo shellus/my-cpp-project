@@ -4,3 +4,5 @@
 openFrameworks：http://openframeworks.cc/documentation/
 
 ofxDatGui：https://braitsch.github.io/ofxDatGui/index.html
+
+菜鸟教程：http://www.runoob.com/cplusplus/cpp-basic-syntax.html
